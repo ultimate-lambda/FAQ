@@ -19,7 +19,7 @@
 ![Fig4.png](http://upload-images.jianshu.io/upload_images/109503-4825ee5c331a4ceb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 请注意，这两个窗口左上角的窗口名字是不一样的！！！
 
-3.现在，切换到Fig2的窗口，然后按下Ctrl和x按键，然后松开，然后按下z键。然后切换到另外一个窗口！
+3.现在，切换到第二张图片的窗口，然后按下Ctrl和x按键，然后松开，然后按下z键。然后切换到另外一个窗口！
 4.如果你看到的界面和下图一样，证明你成功了。重点我标记出来了。
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/109503-26dcd70c5e383e36.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
