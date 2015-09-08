@@ -5,7 +5,7 @@
 
 ------
 
-Author：tab.c
+**Author：tab.c**
 
 1. 在桌面上或者开始菜单找到MIT-GNU Scheme的快捷方式，如图：
 ![Fig1.png](http://upload-images.jianshu.io/upload_images/109503-392625adaa64d57a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
